@@ -4,8 +4,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/gochenzl/chess/util/buf_pool"
-	"github.com/gochenzl/chess/util/log"
+	"chess/util/buf_pool"
+	"chess/util/log"
 	"github.com/golang/protobuf/proto"
 )
 

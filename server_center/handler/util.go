@@ -3,10 +3,10 @@ package handler
 import (
 	"io"
 
-	"github.com/gochenzl/chess/pb/center"
-	"github.com/gochenzl/chess/util/buf_pool"
-	"github.com/gochenzl/chess/util/log"
-	"github.com/gochenzl/chess/util/rpc"
+	"chess/pb/center"
+	"chess/util/buf_pool"
+	"chess/util/log"
+	"chess/util/rpc"
 	"github.com/golang/protobuf/proto"
 )
 

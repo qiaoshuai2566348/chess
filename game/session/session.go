@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gochenzl/chess/pb/center"
-	"github.com/gochenzl/chess/util/log"
-	"github.com/gochenzl/chess/util/rpc"
+	"chess/pb/center"
+	"chess/util/log"
+	"chess/util/rpc"
 	"github.com/golang/protobuf/proto"
 )
 

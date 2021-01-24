@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06998f74-96aa-46f8-9bb4-10269d0557f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codec/game.go" beforeDir="false" afterPath="$PROJECT_DIR$/codec/game.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/conf_file_example/server_login/login.conf" beforeDir="false" afterPath="$PROJECT_DIR$/doc/conf_file_example/server_login/login.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/game/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/server/gate_queue.go" beforeDir="false" afterPath="$PROJECT_DIR$/game/server/gate_queue.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/server/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/game/server/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/server/worker.go" beforeDir="false" afterPath="$PROJECT_DIR$/game/server/worker.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/session/session.go" beforeDir="false" afterPath="$PROJECT_DIR$/game/session/session.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_ddz/client_test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/game_ddz/client_test/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_ddz/handler/handle_echo.go" beforeDir="false" afterPath="$PROJECT_DIR$/game_ddz/handler/handle_echo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_ddz/handler/handle_login.go" beforeDir="false" afterPath="$PROJECT_DIR$/game_ddz/handler/handle_login.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_ddz/handler/handle_send_message.go" beforeDir="false" afterPath="$PROJECT_DIR$/game_ddz/handler/handle_send_message.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_ddz/handler/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/game_ddz/handler/handler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_ddz/server_game/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/game_ddz/server_game/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_ddz/user/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/game_ddz/user/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_ddz/user/user_func.go" beforeDir="false" afterPath="$PROJECT_DIR$/game_ddz/user/user_func.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/conn_info/conn_info.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/conn_info/conn_info.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/conn_info/conn_info_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/conn_info/conn_info_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/conn_info/dur.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/conn_info/dur.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/handler/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/handler/client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/handler/handler_add_conn_info.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/handler/handler_add_conn_info.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/handler/handler_add_conn_info_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/handler/handler_add_conn_info_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/handler/handler_del_conn_info.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/handler/handler_del_conn_info.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/handler/handler_del_conn_info_by_gateid.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/handler/handler_del_conn_info_by_gateid.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/handler/handler_del_conn_info_by_gateid_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/handler/handler_del_conn_info_by_gateid_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/handler/handler_del_conn_info_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/handler/handler_del_conn_info_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/handler/handler_get_all_conn_info.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/handler/handler_get_all_conn_info.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/handler/handler_get_all_conn_info_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/handler/handler_get_all_conn_info_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/handler/util.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/handler/util.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_center/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_center/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_gate/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_gate/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_gate/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_gate/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_gate/pkg/backend.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_gate/pkg/backend.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_gate/pkg/backend_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_gate/pkg/backend_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_gate/pkg/front_end.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_gate/pkg/front_end.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_gate/pkg/msg_queue.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_gate/pkg/msg_queue.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_gate/pkg/stat.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_gate/pkg/stat.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_login/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_login/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_login/handler/handle_login.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_login/handler/handle_login.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_login/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_login/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_table/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_table/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_table/pkg/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_table/pkg/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_table/pkg/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_table/pkg/handler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_table/pkg/room_config.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_table/pkg/room_config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_table/pkg/table_info.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_table/pkg/table_info.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_table/pkg/table_mgr.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_table/pkg/table_mgr.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server_table/pkg/table_mgr_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/server_table/pkg/table_mgr_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testutil/server_center_test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/testutil/server_center_test/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/conf/mutable.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/conf/mutable.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/mysql_cli/mysql_cli.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/mysql_cli/mysql_cli.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/redis/parser.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/redis/parser.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/redis/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/redis/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/rpc/conn_pool.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/rpc/conn_pool.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/rpc/rpc.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/rpc/rpc.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/rpc/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/rpc/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/services/center.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/services/center.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/services/table.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/services/table.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1nTW8Ek7CWybcQ7KNmga0iGseyD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="chess" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/server_gate/main.go" />
+      <package value="chess" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="chess" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/server_login/main.go" />
+      <package value="chess" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.proto" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="557" height="466" key="DebuggerActiveHint" timestamp="1611495354979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="557" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1611495354979" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1611457950738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611457950738" />
+    <state width="1877" height="413" key="GridCell.Tab.0.bottom" timestamp="1611495390094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="413" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611495390094" />
+    <state width="1877" height="413" key="GridCell.Tab.0.center" timestamp="1611495390094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="413" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611495390094" />
+    <state width="1877" height="413" key="GridCell.Tab.0.left" timestamp="1611495390093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="413" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611495390093" />
+    <state width="1877" height="413" key="GridCell.Tab.0.right" timestamp="1611495390094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="413" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611495390094" />
+    <state width="1877" height="413" key="GridCell.Tab.1.bottom" timestamp="1611495295109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="413" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611495295109" />
+    <state width="1877" height="413" key="GridCell.Tab.1.center" timestamp="1611495295109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="413" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611495295109" />
+    <state width="1877" height="413" key="GridCell.Tab.1.left" timestamp="1611495295109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="413" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611495295109" />
+    <state width="1877" height="413" key="GridCell.Tab.1.right" timestamp="1611495295109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="413" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611495295109" />
+    <state x="377" y="121" width="998" height="710" key="SettingsEditor" timestamp="1611483432973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="377" y="121" width="998" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611483432973" />
+    <state x="736" y="380" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1611493905258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="380" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611493905258" />
+    <state x="894" y="173" width="596" height="804" key="find.popup" timestamp="1611415949923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="894" y="173" width="596" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611415949923" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/server_login/main.go</url>
+          <line>52</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/gochenzl/chess/codec"
-	"github.com/gochenzl/chess/common"
+	"chess/codec"
+	"chess/common"
 )
 
 func backendServer(port int) net.Conn {

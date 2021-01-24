@@ -1,29 +1,28 @@
 package main
 
 import (
-	"fmt"
 	"net/http"
 	"os"
 	"strconv"
 	"time"
 
-	"github.com/gochenzl/chess/codec"
-	"github.com/gochenzl/chess/common"
-	"github.com/gochenzl/chess/server_login/account"
-	"github.com/gochenzl/chess/server_login/config"
-	"github.com/gochenzl/chess/server_login/handler"
-	"github.com/gochenzl/chess/util/log"
-	"github.com/gochenzl/chess/util/redis_cli"
+	"chess/codec"
+	"chess/common"
+	"chess/server_login/account"
+	"chess/server_login/config"
+	"chess/server_login/handler"
+	"chess/util/log"
+	"chess/util/redis_cli"
 )
 
 func main() {
-	if len(os.Args) < 2 {
-		fmt.Printf("Usage: %s conf_path\n", os.Args[0])
-		return
-	}
+	//if len(os.Args) < 2 {
+	//	fmt.Printf("Usage: %s conf_path\n", os.Args[0])
+	//	return
+	//}
 
 	log.Info("server start, pid = %d", os.Getpid())
-
+	os.Args = append(os.Args, "C:\\GoPath\\src\\chess\\doc\\conf_file_example\\server_login")
 	if !config.Init(os.Args[1]) {
 		return
 	}

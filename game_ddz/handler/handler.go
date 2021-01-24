@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"github.com/gochenzl/chess/common"
-	"github.com/gochenzl/chess/game/server"
+	"chess/common"
+	"chess/game/server"
 	"github.com/golang/protobuf/proto"
 )
 

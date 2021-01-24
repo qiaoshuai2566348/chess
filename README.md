@@ -1,5 +1,6 @@
 #简述
-![Alt text](https://github.com/gochenzl/chess/blob/master/doc/pic/architecture.png?raw=true)
+![Alt text](./doc/pic/architecture.png)
+
 分为接入层、逻辑层、数据层，redis和server_center为协调层。 
 
 一个server_gate可以带一个或者多个server_game，每个server_gate都有一个唯一的gateid。当server_gate连接上server_game时，会把gateid发送给server_game。  

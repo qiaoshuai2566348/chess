@@ -3,9 +3,9 @@ package handler
 import (
 	"bytes"
 
-	"github.com/gochenzl/chess/pb/center"
-	"github.com/gochenzl/chess/server_center/conn_info"
-	"github.com/gochenzl/chess/util/rpc"
+	"chess/pb/center"
+	"chess/server_center/conn_info"
+	"chess/util/rpc"
 
 	"testing"
 )

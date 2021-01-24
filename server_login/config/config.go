@@ -3,9 +3,9 @@ package config
 import (
 	"sync"
 
-	"github.com/gochenzl/chess/common"
-	"github.com/gochenzl/chess/util/conf"
-	"github.com/gochenzl/chess/util/log"
+	"chess/common"
+	"chess/util/conf"
+	"chess/util/log"
 )
 
 type gameServer struct {
@@ -20,6 +20,7 @@ var gameServerGroup struct {
 }
 
 func Init(confPath string) bool {
+	log.Error(confPath)
 	if err := common.InitConfig(confPath + "/login.conf"); err != nil {
 		log.Error("init common config fail")
 		return false

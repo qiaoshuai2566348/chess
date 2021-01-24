@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gochenzl/chess/util/log"
+	"chess/util/log"
 )
 
 type myConn struct {

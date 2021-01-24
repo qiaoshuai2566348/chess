@@ -5,9 +5,9 @@ import (
 	"io"
 	"testing"
 
-	"github.com/gochenzl/chess/pb/center"
-	"github.com/gochenzl/chess/server_center/conn_info"
-	"github.com/gochenzl/chess/util/rpc"
+	"chess/pb/center"
+	"chess/server_center/conn_info"
+	"chess/util/rpc"
 	"github.com/golang/protobuf/proto"
 )
 
