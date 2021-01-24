@@ -27,16 +27,17 @@ func HandleLogin(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 
-	data := codec.DecryptWithLen(bodyBuf)
+	/*
+	data :=data codec.DecryptWithLen(bodyBuf)
 	if data == nil {
 		log.Error("invalid request: %v", bodyBuf)
 		return
-	}
+	}*/
 
 	var loginReq login.LoginReq
 	var loginResp login.LoginResp
 
-	if err := proto.Unmarshal(data, &loginReq); err != nil {
+	if err := proto.Unmarshal(bodyBuf, &loginReq); err != nil {
 		return
 	}
 
